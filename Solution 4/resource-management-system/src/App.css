@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.dashboard {
+  display: flex;
+  justify-content: space-between;
+}
+
+.overview {
+  width: 40%;
+}
+
+.employee-list {
+  width: 50%;
+}
+
+button {
+  margin: 10px 0;
+}
+
